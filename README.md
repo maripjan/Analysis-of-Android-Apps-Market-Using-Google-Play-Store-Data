@@ -14,14 +14,15 @@ Original dataset contains the following files:
 </ul>
 
 ### Tools used and their versions:
-<ul>
 <code> Python 3.7.9 </code> 
   
 <code> pandas==1.1.3 </code>
   
-<li> <code> numpy==1.19.1 </code><li/>
-<li> <code> seaborn==0.11.0 </code><li/>
-<li> <code> plotly==4.11.0 </code><li/>
-<li> <code> matplotlib==3.3.1 </code><li/>
-</ul>
+<code> numpy==1.19.1 </code>
+
+<code> seaborn==0.11.0 </code>
+
+<code> plotly==4.11.0 </code>
+
+<code> matplotlib==3.3.1 </code>
 
