@@ -1,4 +1,4 @@
-# Analysis of Android Apps Market Using Google Play Sotre Data
+# Analysis of Android Apps Market Using Google Play Store Data
 
 ### Motivation Behind The Project
 The goal of this project is to do an analysis of the Android apps market via comparing 10,000 apps in Google Play across different categories. As the result, this common-sense based analysis should give an overall picture of what the situation in Android app market looks like. Those findings in turn might provide some insights for people who are involved in market research or intersted in knowing what strategies to follow in order to launch and sustain a successful app in Android market.
